@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mabel Olachi Chukwuma</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate data analyst </h3>
 
 ![I am a Data Analyst](banner.png)
